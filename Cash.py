@@ -8,7 +8,7 @@ st.set_page_config(page_title="Dashboard Financeiro - Construtora Tenda", layout
 
 # Título do dashboard
 st.title("📊 Dashboard Financeiro - Construtora Tenda")
-
+    
 # Sidebar para menus e filtros
 with st.sidebar:
     st.header("⚙️ Menu de Navegação")
@@ -209,4 +209,4 @@ elif menu_option == "Indicadores Econômicos":
 
 # Rodapé
 st.write("---")
-st.write("Desenvolvido por [Seu Nome] - Dashboard Financeiro - Construtora Tenda")
+st.write("Desenvolvido por Ryan Costa Rangel - Dashboard Financeiro - Construtora Tenda")
